@@ -10,27 +10,27 @@
                         {
                             "type": "minecraft:item",
                             "name": "minecraft:diamond",
-                            "weight": 2
+                            "weight": 4
                         },
                         {
                             "type": "minecraft:item",
                             "name": "minecraft:ancient_debris",
-                            "weight": 1
+                            "weight": 2
                         },
                         {
                             "type": "minecraft:item",
                             "name": "minecraft:silence_armor_trim_smithing_template",
-                            "weight": 3
+                            "weight": 6
                         },
                         {
                             "type": "minecraft:item",
                             "name": "minecraft:ward_armor_trim_smithing_template",
-                            "weight": 3
+                            "weight": 6
                         },
                         {
                             "type": "minecraft:item",
                             "name": "minecraft:sculk_catalyst",
-                            "weight": 11
+                            "weight": 22
                         }
                     ]
                 }
